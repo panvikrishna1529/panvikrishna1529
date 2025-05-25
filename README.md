@@ -1,14 +1,11 @@
-<!-- 👋 Intro Section -->
+
 <h1>Hi 👋, I'm Panvi Krishna</h1>
-<!-- 🧠 Personal Summary -->
 
-<p>
-  I’m a software developer passionate about building meaningful applications.
-  I enjoy working with cutting-edge technologies, contributing to open source,
-  and collaborating with developers to solve real-world problems.
-</p>
+I’m a software developer passionate about building meaningful applications. I enjoy working with cutting-edge technologies, contributing to open source and collaborating with developers to solve real-world problems.
 
-<pre>
+
+
+<pre align="center">
 __________                            .__    ____  __.          .__           .__                       
 \______   \ _____      ____   ___  __ |__|  |    |/ _| _______  |__|   ______ |  |__     ____   _____   
  |     ___/ \__  \    /    \  \  \/ / |  |  |      <   \_  __ \ |  |  /  ___/ |  |  \   /    \  \__  \  
@@ -17,85 +14,65 @@ __________                            .__    ____  __.          .__           ._
                  \/       \/                        \/                    \/       \/       \/       \/ 
 </pre>
 
-<picture>
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/panvikrishna1529/panvikrishna1529/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/panvikrishna1529/panvikrishna1529/output/github-snake.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/panvikrishna1529/panvikrishna1529/output/github-snake.svg">
 </picture>
 
-<br />
+## 🚀 Languages and Tools I Use
 
-<!-- 🚀 Languages and Tools Section -->
-<h2>🚀 Languages and Tools I Use</h2>
-<p>
-  <!-- Each icon represents a technology or tool -->
-  <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-  <a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,java,react,bootstrap,css,html,tensorflow,opencv,mysql,aws,firebase,figma)](https://skillicons.dev)
 
-<br />
+## 📍 Social Links
 
-📜 **Quote of the Day**  
-<!-- quote-start -->
-💬 Loading quote...
-<!-- quote-end -->
+<a target="_blank" href="https://twitter.com/panvikrishnaj">
+  <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
+</a>
 
+<a target="_blank" href="https://www.linkedin.com/in/jenne-panvi-krishna-352602218/">
+  <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+</a>
 
-<!-- 📍 Social Links Section -->
-<h2>⚡️ Where to find me</h2>
-<p>
-  <a target="_blank" href="https://twitter.com/panvikrishnaj">
-    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
-  </a>
+<a target="_blank" href="https://www.instagram.com/panvikrishna.j/">
+  <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+</a>
 
-  <a target="_blank" href="https://www.linkedin.com/in/jenne-panvi-krishna-352602218/">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-  </a>
+<a href="mailto:panvikrishna59@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-panvikrishna59@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 
-  <a target="_blank" href="https://www.instagram.com/panvikrishna.j/">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
-  </a>
-</p>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=panvikrishna1529.panvikrishna1529)
 
-<br />
+## 📊 GitHub Stats
 
-<!-- 📊 GitHub Stats Section -->
-<!-- GitHub profile stats with theme -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=panvikrishna1529&show_icons=true&locale=en&theme=radical" alt="panvikrishna1529" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=panvikrishna1529&show_icons=true&locale=en&theme=radical" alt="panvikrishna1529" />
+  <!-- Top Languages Used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=panvikrishna1529&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<br />
+## 🔥 GitHub Streak
 
-<!-- 🔥 GitHub Streak -->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panvikrishna1529&theme=radical" alt="panvikrishna1529" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panvikrishna1529&theme=radical" alt="GitHub Streak" style="margin-right: 10px;" />
 </p>
 
-<br />
 
-<!-- 🧠 Top Languages Used -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=panvikrishna1529&show_icons=true&locale=en&layout=compact&theme=radical" alt="panvikrishna1529" />
-</p>
+## 🏆 GitHub Trophy
 
-<br />
-
-<!-- 🏆 GitHub Trophy -->
-<p>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=panvikrishna1529&theme=radical" alt="panvikrishna1529" />
   </a>
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </p>

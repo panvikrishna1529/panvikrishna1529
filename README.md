@@ -9,8 +9,6 @@
 </p>
 
 <!-- 🎞️ GIF Animation (host this GIF in your repo and update the URL accordingly) -->
-<img src="https://raw.githubusercontent.com/panvikrishna1529/panvikrishna1529/main/PanviKrishna-gif.gif" width="300" alt="Panvi Krishna Animation" />
-
 <br />
 
 <!-- 🚀 Languages and Tools Section -->

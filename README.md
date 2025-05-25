@@ -1,4 +1,13 @@
 <!-- 👋 Intro Section -->
+<h1>Hi 👋, I'm Panvi Krishna</h1>
+<!-- 🧠 Personal Summary -->
+
+<p>
+  I’m a software developer passionate about building meaningful applications.
+  I enjoy working with cutting-edge technologies, contributing to open source,
+  and collaborating with developers to solve real-world problems.
+</p>
+
 <pre>
 __________                            .__    ____  __.          .__           .__                       
 \______   \ _____      ____   ___  __ |__|  |    |/ _| _______  |__|   ______ |  |__     ____   _____   
@@ -7,15 +16,13 @@ __________                            .__    ____  __.          .__           ._
  |____|     (____  / |___|  /   \_/   |__|  |____|__ \  |__|    |__| /____  > |___|  / |___|  / (____  /
                  \/       \/                        \/                    \/       \/       \/       \/ 
 </pre>
-<h1>Hi 👋, I'm Panvi Krishna</h1>
-<!-- 🧠 Personal Summary -->
-<p>
-  I’m a software developer passionate about building meaningful applications.
-  I enjoy working with cutting-edge technologies, contributing to open source,
-  and collaborating with developers to solve real-world problems.
-</p>
 
-<!-- 🎞️ GIF Animation (host this GIF in your repo and update the URL accordingly) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/panvikrishna1529/panvikrishna1529/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/panvikrishna1529/panvikrishna1529/output/github-snake-light.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/panvikrishna1529/panvikrishna1529/output/github-snake.svg">
+</picture>
+
 <br />
 
 <!-- 🚀 Languages and Tools Section -->

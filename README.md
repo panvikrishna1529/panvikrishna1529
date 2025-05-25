@@ -22,8 +22,11 @@ __________                            .__    ____  __.          .__           ._
 </picture>
 
 ## 🚀 Languages and Tools I Use
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,react,bootstrap,css,html,tensorflow,opencv,mysql,aws,firebase,figma)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,react,bootstrap,css,html,tensorflow,opencv,mysql,aws,firebase,figma" alt="My Skills" />
+  </a>
+</p>
 
 ## 📍 Social Links
 

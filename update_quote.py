@@ -23,3 +23,6 @@ updated_content = re.sub(f"{start_tag}.*?{end_tag}", new_quote, content, flags=r
 # Write the updated content back to README.md
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated_content)
+
+print("Quote fetched:", quote)
+

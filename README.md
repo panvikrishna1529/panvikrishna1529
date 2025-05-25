@@ -45,6 +45,12 @@ __________                            .__    ____  __.          .__           ._
 
 <br />
 
+📜 **Quote of the Day**  
+<!-- quote-start -->
+💬 Loading quote...
+<!-- quote-end -->
+
+
 <!-- 📍 Social Links Section -->
 <h2>⚡️ Where to find me</h2>
 <p>
@@ -60,6 +66,8 @@ __________                            .__    ____  __.          .__           ._
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
   </a>
 </p>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=panvikrishna1529.panvikrishna1529)
 
 <br />
 
